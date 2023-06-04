@@ -2,7 +2,7 @@ Package: RegLinS
 Type: Package
 Title: Realiza una regresión lineal simple
 Version: 0.1.0
-Author: Bartolo de Jesús Villar
+Author: Bartolo de Jesús Villar Hernández
 Maintainer: The package maintainer <bjesusvh@gmail.com>
 Description: Este paquete realiza una regresión lineal simple entre dos variables numéricas.
 References: Weisberg, S. (2005). Applied linear regression (Vol. 528). John Wiley & Sons.

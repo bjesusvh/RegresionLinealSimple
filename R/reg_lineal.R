@@ -10,7 +10,7 @@
 #' @examples
 #' \dontrun{
 #' # Directorio de trabajo
-#' ruta <- "~/ruta/test.csv"
+#' ruta <- "incluir tu ruta aquí y tu archivo"
 #'
 #' # -----------------------------------
 #' # Ejemplo 1:
@@ -21,8 +21,8 @@
 #'
 #' # -----------------------------------
 #' # Ejemplo 2:
-#' x <- c(1,2,3,4,5)
-#' y <- c(5, 5.4, 6, 7, 9)
+#' x <- c(1,2,3,4,5, 6)
+#' y <- c(5, 5.4, 6, 7, 9, 8)
 #'
 #' regresion(y = y, x = x)
 #' }
